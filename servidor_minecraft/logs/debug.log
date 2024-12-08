@@ -1821,3 +1821,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [08Dec2024 21:42:06.620] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DudMat issued server command: /summon minecraft:zombie
 [08Dec2024 21:42:06.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DudMat: Summoned new Zombie]
 [08Dec2024 21:42:07.444] [Server thread/DEBUG] [mixin/]: Mixing world.level.gameevent.vibrations.VibrationListenerMixin from mixins.arclight.core.json into net.minecraft.world.level.gameevent.vibrations.VibrationListener
+[08Dec2024 21:44:01.716] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 21:44:01.729] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 21:49:01.715] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 21:49:01.720] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
