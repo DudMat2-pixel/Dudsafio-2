@@ -320,3 +320,12 @@
 [08Dec2024 21:41:55.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DudMat has made the advancement [Monster Hunter]
 [08Dec2024 21:42:06.620] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DudMat issued server command: /summon minecraft:zombie
 [08Dec2024 21:42:06.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DudMat: Summoned new Zombie]
+[08Dec2024 22:05:54.354] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DudMat lost connection: Disconnected
+[08Dec2024 22:05:54.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DudMat left the game
+[08Dec2024 22:06:01.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[08Dec2024 22:06:01.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[08Dec2024 22:06:01.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[08Dec2024 22:06:01.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[08Dec2024 22:06:04.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08Dec2024 22:06:06.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM1]'/minecraft:the_end
+[08Dec2024 22:06:06.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM-1]'/minecraft:the_nether
