@@ -1800,3 +1800,24 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [08Dec2024 21:27:20.073] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/entity/vehicle/AbstractMinecart$1
 [08Dec2024 21:29:01.753] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Dec2024 21:29:01.764] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 21:33:41.057] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/server/network/ServerGamePacketListenerImpl$2
+[08Dec2024 21:33:55.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made DudMat a server operator
+[08Dec2024 21:34:01.718] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 21:34:01.727] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 21:34:15.709] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DudMat issued server command: /gamemode creative
+[08Dec2024 21:34:15.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DudMat: Set own game mode to Creative Mode]
+[08Dec2024 21:34:53.839] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DudMat issued server command: /gamerule doDaylightCycle false
+[08Dec2024 21:34:53.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DudMat: Gamerule doDaylightCycle is now set to: false]
+[08Dec2024 21:35:18.070] [Netty Epoll Server IO #2/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/network/FriendlyByteBuf$1
+[08Dec2024 21:39:01.737] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 21:39:01.745] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 21:41:09.724] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class io/izzel/arclight/common/mixin/core/network/ServerPlayNetHandlerMixin$2
+[08Dec2024 21:41:19.083] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DudMat> ggh{}}
+[08Dec2024 21:41:45.760] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DudMat issued server command: /summon minecraft:zombie
+[08Dec2024 21:41:45.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DudMat: Summoned new Zombie]
+[08Dec2024 21:41:47.050] [Server thread/DEBUG] [mixin/]: Generating mapped inner class net/minecraft/server/network/ServerGamePacketListenerImpl$1Handler$4fa60d9c1d164cda9b6088db9c8fc54d (originally io/izzel/arclight/common/mixin/core/network/ServerPlayNetHandlerMixin$1Handler)
+[08Dec2024 21:41:55.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DudMat has made the advancement [Monster Hunter]
+[08Dec2024 21:42:04.864] [Worker-Main-25/DEBUG] [mixin/]: Mixing world.entity.ItemBaseSteeringMixin from mixins.arclight.core.json into net.minecraft.world.entity.ItemBasedSteering
+[08Dec2024 21:42:06.620] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DudMat issued server command: /summon minecraft:zombie
+[08Dec2024 21:42:06.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DudMat: Summoned new Zombie]
+[08Dec2024 21:42:07.444] [Server thread/DEBUG] [mixin/]: Mixing world.level.gameevent.vibrations.VibrationListenerMixin from mixins.arclight.core.json into net.minecraft.world.level.gameevent.vibrations.VibrationListener
