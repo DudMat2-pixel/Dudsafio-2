@@ -306,3 +306,6 @@
 [08Dec2024 21:14:01.745] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [08Dec2024 21:14:01.746] [Server thread/INFO] [Arclight/]: Forwarding forge permission[forge:default_handler] to bukkit
 [08Dec2024 21:19:40.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made DudMat a server operator
+[08Dec2024 21:27:04.969] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player DudMat is a71ab51c-f3f5-374d-b833-729f6293ad79
+[08Dec2024 21:27:05.156] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DudMat[/127.53.63.108:41743] logged in with entity id 91 at (359.5, 74.0, 120.5)
+[08Dec2024 21:27:05.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DudMat joined the game
